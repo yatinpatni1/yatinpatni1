@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on various projects which help me grow further
 - 📫 How to reach me - you can always mail me at yatinpatni1@gmail.com 
 
-<!---
-yatinpatni1/yatinpatni1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently working on my project for Microsoft Engage '22 round 3.
+For the same I am making a recommendation algorithm to run on an application such that it will help the user on the streaming service to get recommendations according to his choice. It will further tell the user the current most liked titles so that he can check those out as well.
